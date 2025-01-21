@@ -82,13 +82,6 @@ To use PyMOL to visualize protein structures, follow these steps to set it up co
 
 ---
 
-## Screenshot
-
-![GUI Screenshot](https://via.placeholder.com/800x600.png?text=Interactive+Protein+Structure+Viewer)  
-*Example of the application interface.*
-
----
-
 ## Notes
 
 - Ensure you have an active internet connection to fetch PDB files.
